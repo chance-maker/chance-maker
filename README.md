@@ -1,8 +1,3 @@
-/*<p align="center">
-  <a href="https://github.com/chance-maker">
-    <img src="./img/header.png" alt="Sniper" /></a>
-</p>*/
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Smart%20Contract%20and%Web%20developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20trending%20techs&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>

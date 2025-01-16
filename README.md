@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/chance-maker" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/echo_frost" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
+  <a href="https://t.me/frost1234567890" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Skype" title="live:.cid.8816c7ae3dae36f2"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -39,9 +39,9 @@ So if you're looking for someone who can bring your tech dreams to life and help
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/chance-maker/codeGenericBotBackend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chance-maker&repo=codeGenericBotBackend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codeGenericBotBackend"></a>
-    <a href="https://github.com/chance-maker/codeGenericBotFrontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chance-maker&repo=codeGenericBotFrontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codeGenericBotFrontend"></a>
-    <a href="https://github.com/chance-maker/MusicBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chance-maker&repo=MusicBot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="MusicBot"></a>
+    <a href="https://github.com/chance-maker/nft-awesome-contracts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chance-maker&repo=codeGenericBotBackend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codeGenericBotBackend"></a>
+    <a href="https://github.com/chance-maker/flashLoan-using-aave"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chance-maker&repo=codeGenericBotFrontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codeGenericBotFrontend"></a>
+    <a href="https://github.com/chance-maker/leverage-swap-contract-on-aave"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chance-maker&repo=MusicBot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="MusicBot"></a>
   </p>
 
 <a href="https://github.com/chance-maker?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>

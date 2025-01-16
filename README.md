@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/chance-maker" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/devBoy0" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
+  <a href="https://t.me/echo_frost" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Skype" title="live:.cid.ca2b9b5aa8f4701d"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

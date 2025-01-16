@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/echo_frost" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Skype" title="live:.cid.ca2b9b5aa8f4701d"><img width="32px" src="./img/skype.png"/></a>
+  <a href="#" alt="Skype" title="live:.cid.8816c7ae3dae36f2"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="Slack" title="bingo00109@gmail.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
